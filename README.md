@@ -25,7 +25,7 @@ Writeup
 ---
 The write up for this project can be found [here](./writeup_report.pdf)
 
-The utput video can be found [here](./video.mp4)
+The output video can be found [here](./video.mp4)
 
 The Project
 ---
